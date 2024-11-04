@@ -12,7 +12,7 @@ When examining the average ride length throughout every station the South Waterf
 This station is located directly next to a marina, a park, and views of the river. 
 These could be some reasons as to why it has a higher ride length than others for riders to get out and spend time in nature.  
 
-Also viewing all station map it helps show the most common starting locations of all the city bike stations and helps show that most of the commonly used stations are the most centrally located ones,
+Also viewing the all station map it helps show the most common starting locations of all the city bike stations and helps show that most of the commonly used stations are the most centrally located ones,
 and are also generally closer to Manhattan.  When viewing the most common end stations they are also most of the same stations that were used as the most common starting station.
 This makes sense as people would generally pick up and drop off at the same station throughout their trips.    
 
