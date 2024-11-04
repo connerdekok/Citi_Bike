@@ -35,3 +35,6 @@ The top 10 start and end maps also have an option be sorted out by month and yea
 
 To conclude, when examining information such as each location total start amounts, and ride length it helps riders and city
 officials see where more bike stations should be located to increase revenue and ease of rider use. 
+
+
+I also worked on the completition of this project with Hunter Becker.
